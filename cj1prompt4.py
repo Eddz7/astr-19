@@ -24,7 +24,7 @@ class Penguin:
 		print(f"Furry?: {self.furry}")
 
 #define main function
-#set var to be memeber of the penguin class
+#set var to be member of the penguin class
 def main():
 	fav_animal = Penguin()
 	fav_animal.print()
